@@ -38,4 +38,4 @@ Trust me, you're welcome.
 Got a project to launch, a legacy monster to tame, or a process that's begging to be automated?
 You already know where to find me ☝️ I reply fast and I only bite legacy code.
 
-<p align="center"><i>// TODO: write a better tagline</i></p>
+<p align="center"><i>// My avatar is a Beksiński. My code is less disturbing. Usually.</i></p>
