@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm cicababba</h1>
 <p align="center">
-  Freelance full-stack developer · I turn coffee into code and code into slightly fewer problems
+  Freelance full-stack developer · I turn coffee into code and code into slightly fewer problems (yours) and slightly more problems (mine)
 </p>
 
-<p align="center">
-  <a href="https://aboutme.cicababba.dev"><img src="https://img.shields.io/badge/aboutme-cicababba.dev-111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/madduci/"><img src="https://img.shields.io/badge/LinkedIn-madduci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:matteo.adduci94@gmail.com"><img src="https://img.shields.io/badge/Email-poke_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+```console
+$ whoami
+cicababba — freelance full-stack dev, antisocial by default
+
+$ contact --if-you-really-must
+matteo.adduci94@gmail.com
+```
 
 ---
 
@@ -34,6 +36,6 @@ Trust me, you're welcome.
 ### 🤝 Let's work together
 
 Got a project to launch, a legacy monster to tame, or a process that's begging to be automated?
-Drop me a line at **matteo.adduci94@gmail.com**. I reply fast and I only bite legacy code.
+You already know where to find me ☝️ I reply fast and I only bite legacy code.
 
 <p align="center"><i>// TODO: write a better tagline</i></p>
